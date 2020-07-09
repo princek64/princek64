@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello World 👋 💻
+
+Hi, I'm Prince! I'm a Software Developer who is passionate about building new things.
+
+Follow me on Twitter🐦: @PrinceKukreja_
+
 
 <!--
 **princek64/princek64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +16,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-
-
-Hello World
