@@ -108,7 +108,7 @@
    <tr>
     <td align="center" width="96">
       <a href="#princekukreja-tech">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftailwindcss.com%2Fbrand&psig=AOvVaw3XofbqJrSEE8g655L7QNVj&ust=1677266303959000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIC2h4SurP0CFQAAAAAdAAAAABAE" width="48" height="48" alt="TailWind" />
+        <img src="https://d3mxt5v3yxgcsr.cloudfront.net/courses/7443/course_7443_image.jpg" width="48" height="48" alt="TailWind" />
       </a>
       <br>TailWind
     </td>
