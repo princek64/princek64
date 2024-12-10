@@ -31,12 +31,6 @@
     </td>
     <td align="center" width="96">
       <a href="#princekukreja-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#princekukreja-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
@@ -46,6 +40,18 @@
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
       </a>
       <br>React JS
+    </td>
+    <td align="center" width="96">
+      <a href="#princekukreja-tech">
+        <img src="https://banner2.cleanpng.com/20180714/qtv/aav31u2wg.webp" width="48" height="48" alt="React" />
+      </a>
+      <br>Vue.js
+    </td>
+    <td align="center" width="96">
+      <a href="#princekukreja-tech">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQvDoUVjzAfvW08i1AFHyk3VcsmYfYboMe-w&s" width="48" height="48" alt="React" />
+      </a>
+      <br>Angular
     </td>
     <td align="center" width="96">
       <a href="#princekukreja-tech">
@@ -59,6 +65,12 @@
       </a>
       <br>Node JS
     </td>
+    <td align="center" width="96">
+      <a href="#princekukreja-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+      </td>
      <td align="center" width="96"> 
       <a href="#princekukreja-tech" >
         <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
