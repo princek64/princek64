@@ -43,13 +43,13 @@
     </td>
     <td align="center" width="96">
       <a href="#princekukreja-tech">
-        <img src="https://banner2.cleanpng.com/20180714/qtv/aav31u2wg.webp" width="48" height="48" alt="React" />
+        <img src="https://cdn3d.iconscout.com/3d/free/preview/free-vuejs-3d-logo-download-in-png-blend-fbx-gltf-file-formats--vue-company-brand-vol-1-pack-logos-3640297@0.png?f=webp&h=700" width="48" height="48" alt="Vue" />
       </a>
       <br>Vue.js
     </td>
     <td align="center" width="96">
       <a href="#princekukreja-tech">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQvDoUVjzAfvW08i1AFHyk3VcsmYfYboMe-w&s" width="48" height="48" alt="React" />
+        <img src="https://banner2.cleanpng.com/20180406/btq/kisspng-angularjs-web-development-web-application-progress-books-5ac74074bd8d02.4533045415230076047764.jpg" width="48" height="48" alt="Angular" />
       </a>
       <br>Angular
     </td>
@@ -65,12 +65,6 @@
       </a>
       <br>Node JS
     </td>
-    <td align="center" width="96">
-      <a href="#princekukreja-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-      </td>
      <td align="center" width="96"> 
       <a href="#princekukreja-tech" >
         <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
