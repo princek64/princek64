@@ -70,7 +70,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#princekukreja-tech" >
-        <img src="https://miro.medium.com/v2/resize:fit:1400/0*Qqqd7UsfFDPL7WXh.jpeg" width="48" height="48" alt="Linux" />
+        <img src="https://static-00.iconduck.com/assets.00/linux-icon-2048x2048-sy06t4un.png" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
