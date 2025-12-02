@@ -1,152 +1,53 @@
-### Hello World 👋 💻
-<h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Prince Kukreja</h1>
-<h3 align="left">I am a Frontend Developer at SPARK BUSINESS WORKS </h3>
+# 🎨 Prince Kukreja
 
+### Crafting Code and Digital Experiences
 
-<a href="#princekukreja-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=princek64&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Prince Kukreja" align="right" />
-</a>
+---
 
-- :office: &nbsp;I'm currently working at **SPARK BUSINESS WORKS**
-- :seedling: &nbsp;I’m currently learning **NODE JS**
-- :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **Twitter**
+> A Frontend Developer passionate about bridging elegant design with functional code. Currently exploring the convergence of media and technology through advanced studies.
+
+## 🌟 My Focus
+
+* **Professional Role:** 💻 **Frontend Developer** at **SPARK BUSINESS WORKS**.
+* **Creative Pursuit:** 📚 M.A. in **Digital Media Design** at **Birkbeck, University of London**.
+---
+
+## 🖌️ Creative Toolkit
+
+| Discipline | Core Skills |
+| :--- | :--- |
+| **Foundation** | `JavaScript` / `TypeScript` |
+| **Interfaces** | `React` / `Vue.js` / `Angular` |
+| **Design & Style** | `Tailwind CSS` / `Material UI` / `Figma` |
+| **Architecture** | `Node.js` / `MongoDB` / `GraphQL` |
+| **DevOps** | `Git` / `Linux` / `Bash` |
 
 <br>
 
-<h2 align="left" id="princekukreja-tech">Favorite Tech</h2>
+### Technology Palette
 
-> Tools, languages, and other things that I like to work with.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
+---
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#princekukreja-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#princekukreja-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#princekukreja-tech">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-    <td align="center" width="96">
-      <a href="#princekukreja-tech">
-        <img src="https://cdn3d.iconscout.com/3d/free/preview/free-vuejs-3d-logo-download-in-png-blend-fbx-gltf-file-formats--vue-company-brand-vol-1-pack-logos-3640297@0.png?f=webp&h=700" width="48" height="48" alt="Vue" />
-      </a>
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
-      <a href="#princekukreja-tech">
-        <img src="https://banner2.cleanpng.com/20180406/btq/kisspng-angularjs-web-development-web-application-progress-books-5ac74074bd8d02.4533045415230076047764.jpg" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
-    <td align="center" width="96">
-      <a href="#princekukreja-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#princekukreja-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-     <td align="center" width="96"> 
-      <a href="#princekukreja-tech" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="96">
-      <a href="#princekukreja-tech" >
-        <img src="https://static-00.iconduck.com/assets.00/linux-icon-2048x2048-sy06t4un.png" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center"  width="96">
-      <a href="#princekukreja-tech">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
-      </a>
-      <br>Gatsby
-    </td>
-    <td align="center" width="96">
-      <a href="#princekukreja-tech">
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center"  width="96">
-      <a href="#princekukreja-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <a href="#princekukreja-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <a href="#princekukreja-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
-      <a href="#princekukreja-tech">
-        <img src="https://d3mxt5v3yxgcsr.cloudfront.net/courses/7443/course_7443_image.jpg" width="48" height="48" alt="TailWind" />
-      </a>
-      <br>TailWind
-    </td>
-    <td align="center" width="96">
-      <a href="#princekukreja-tech">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <a href="#princekukreja-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#princekukreja-tech">
-        <img src="https://material-ui.com/static/logo.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>Material ui
-    </td>
-     <td align="center" width="96"> 
-      <a href="#princekukreja-tech" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-  </tr>
-    
-</table>
-<!-- links -->
+## 🌐 Connect & Collaborate
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/princekukreja/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:princekukreja64@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-
-[linkedin]: https://www.linkedin.com/in/princekukreja/ "Prince LinkedIn"
+---
+<div align="center">
+  <p>💡 Always learning, always creating.</p>
+</div>
