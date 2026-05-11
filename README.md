@@ -8,7 +8,7 @@
 
 ## 🌟 My Focus
 
-* **Professional Role:** 💻 **Frontend Developer** at **SPARK BUSINESS WORKS**.
+* **Professional Role:** 💻 **Frontend Developer**
 * **Creative Pursuit:** 📚 M.A. in **Digital Media Design** at **Birkbeck, University of London**.
 ---
 
@@ -17,7 +17,7 @@
 | Discipline | Core Skills |
 | :--- | :--- |
 | **Foundation** | `JavaScript` / `TypeScript` |
-| **Interfaces** | `React` / `Vue.js` / `Angular` |
+| **Interfaces** | `React` / `Vue.js` / `Angular` / `Astro` |
 | **Design & Style** | `Tailwind CSS` / `Material UI` / `Figma` |
 | **Architecture** | `Node.js` / `MongoDB` / `GraphQL` |
 | **DevOps** | `Git` / `Linux` / `Bash` |
