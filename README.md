@@ -4,11 +4,11 @@
 
 ---
 
-> A Frontend Developer passionate about bridging elegant design with functional code. Currently exploring the convergence of media and technology through advanced studies.
+> A Design Engineer passionate about bridging elegant design with functional code. Currently exploring the convergence of media and technology through advanced studies.
 
 ## 🌟 My Focus
 
-* **Professional Role:** 💻 **Frontend Developer**
+* **Professional Role:** 💻 **Design Engineer**
 * **Creative Pursuit:** 📚 M.A. in **Digital Media Design** at **Birkbeck, University of London**.
 ---
 
