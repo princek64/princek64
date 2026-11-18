@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/hero.svg" alt="Prince Kukreja — Design Engineer" />
-</p>
-
 # Prince Kukreja
 
 **Design Engineer building thoughtful, useful interfaces.**
